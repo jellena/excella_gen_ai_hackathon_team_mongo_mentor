@@ -1,0 +1,24 @@
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IPython
+profile_default/
+ipython_config.py
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Apple Directory
+.DS_Store
+
+# Model Checkpoint Folder created by trainer() class
+tmp_trainer/
+
+# Large Data Files
+data/
